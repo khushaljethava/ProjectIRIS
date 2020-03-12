@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">IRIS</string>
+    <string name="title_activity_main">IRIS</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Add</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Tap on logo to speak</string>
+    <string name="default_upload_website">http://192.168.43.107/gpstracker/updatelocation.php</string>
+
+    <string name="tracking_is_off">Tracking is Off</string>
+    <string name="tracking_is_on">Tracking is On</string>
+    <string name="user_needs_to_restart_tracking">Please restart tracking to change the time interval.</string>
+    <string name="reachability_error">Cannot reach the website that you have entered. Did you spell it correctly? Does your website use http or https?</string>
+    <string name="textfields_empty_or_spaces">Please fill in both fields. User names cannot have a space.</string>
+    <string name="google_play_services_unavailable">Please go into Settings > Apps and enable Google Play Services.</string>
+    <string name="location_unavailable">Please go into Settings > Apps and enable Location.</string>
+    <string name="user_name">user name</string>
+    <string name="upload_website">upload website</string>
+    <string name="upload_frequency">Update website every:</string>
+    <string name="one_minute">1 minute</string>
+    <string name="five_minutes">5 minutes</string>
+    <string name="fifteen_minutes">15 minutes</string>
+    <string name="add_task">New task</string>
+    <string name="made_by" translatable="false">Made by Maxime Bruguet</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="title_add_dial">New task</string>
+    <string name="save_add_dial">Add</string>
+    <string name="cancel_add_dial">Cancel</string>
+    <string name="error_add_dial">All fields must be filled</string>
+    <string name="success_add_dial">Task added</string>
+    <string name="deleted_edit_task">Task marked as done</string>
+    <string name="save_edit_dial">Save</string>
+    <string name="done_edit_dial" translatable="false">Done</string>
+    <string name="description">Long click on a task to edit it</string>
+    <string name="action_example">Example action</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="title_hint">Title</string>
+    <string name="reminder_hint">Enter a reminder…</string>
+    <string name="delete">Delete</string>
+    <string name="empty">No items.</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <!-- Navigation drawer menu labels -->
+    <string name="nav_home">Home</string>
+    <string name="nav_alerts">Alerts</string>
+    <string name="nav_notes">Notes</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- FAB labels -->
+    <string name="fab_add_note">Add Note</string>
+    <string name="fab_add_alert">Add Alert</string>
+
+    <!-- Action bar titles -->
+    <string name="action_bar_create_alert">Create Alert</string>
+    <string name="action_bar_edit_alert">Edit Alert</string>
+    <string name="action_bar_create_note">Create Note</string>
+    <string name="action_bar_edit_note">Edit Note</string>
+
+    <!-- Dialog strings -->
+    <string name="confirm">Confirm</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="save_prompt">Do you want to save?</string>
+    <string name="delete_prompt">Are you sure you want to delete?</string>
+    <string name="repeat">Repeat</string>
+
+    <string name="show_all_toast">Showing all items</string>
+    <string name="show_alerts_toast">Showing all alerts</string>
+    <string name="show_notes_toast">Showing all notes</string>
+</resources>
